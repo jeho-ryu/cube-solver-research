@@ -1,0 +1,8 @@
+{
+  "original_workspace_path": "cube_solver_cpp/results/tail-holdout-20261102/REPORT.md",
+  "original_sha256": "864012b54c858e24e615e76daadceef1a785777787ae4a37f388c33117d34abd",
+  "published_sha256": "732e4e268fb51d1e0a25ab117406567a31dd77227f7af1e5141a5663bc95df01",
+  "editorial_changes": [
+    "Repointed the execution-guide Markdown link to docs/CPP.md."
+  ]
+}

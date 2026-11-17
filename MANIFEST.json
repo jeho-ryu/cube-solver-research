@@ -1,0 +1,100 @@
+{
+  "prepared_on": "2026-11-17",
+  "scope": "Documentation and archived reports only; no new benchmark execution.",
+  "source_reports": 9,
+  "checked_local_markdown_links": 30,
+  "files": [
+    {
+      "path": "benchmarks/cpp-max/REPORT.md",
+      "sha256": "1ff196e04b0a419aa54f5110d1bce156682703374d1dc387be5046278351a457"
+    },
+    {
+      "path": "benchmarks/cpp-max/SOURCE.json",
+      "sha256": "2f795081ad6bd2de5456c63ed44c794040f1605c9ffc26a52608defc6d89dd50"
+    },
+    {
+      "path": "benchmarks/cpp-tail/REPORT.md",
+      "sha256": "732e4e268fb51d1e0a25ab117406567a31dd77227f7af1e5141a5663bc95df01"
+    },
+    {
+      "path": "benchmarks/cpp-tail/SOURCE.json",
+      "sha256": "df7017ffeca91705bbfe084c2c944ca7fa260937c80c0a3f7c3bcd8f7e2ff6fa"
+    },
+    {
+      "path": "benchmarks/cpp-tail-vs-rob/REPORT.md",
+      "sha256": "20ddb7bf2beb48401fe7187dc1b30130444595314fbdbc143bbad5b377034439"
+    },
+    {
+      "path": "benchmarks/cpp-tail-vs-rob/SOURCE.json",
+      "sha256": "602f313737fdca12acf4f50075e20e1b5673757a228a313357af865d6181fb40"
+    },
+    {
+      "path": "benchmarks/dnn-postprocess/REPORT.md",
+      "sha256": "1bd7f2b624d9fd9bada54a496a5a0520680b46336e1cf5428a9c33c6631ffded"
+    },
+    {
+      "path": "benchmarks/dnn-postprocess/SOURCE.json",
+      "sha256": "38339eac21dc5ac273fbc87eca7a6c077266a86d1d2b3a5a68b436e131d64736"
+    },
+    {
+      "path": "benchmarks/dnn-quality/REPORT.md",
+      "sha256": "8ae1fc23d61ebdc1ad7265aa026cb23a56c542905c760ce93cbf0cb76dcce535"
+    },
+    {
+      "path": "benchmarks/dnn-quality/SOURCE.json",
+      "sha256": "e2de765ec93dea2b319d5c891d97fe6d5ce34d5775c9dbeed34e00baa3eb787d"
+    },
+    {
+      "path": "benchmarks/dnn-ranking/REPORT.md",
+      "sha256": "91114bc6967e322289dfd0471f7fba819154e87756ad994a2a620c4ed790df73"
+    },
+    {
+      "path": "benchmarks/dnn-ranking/SOURCE.json",
+      "sha256": "5250434af8e563aee13c37556779b96d6e7d8d1b1600547b6cb2e9fbfbb1efd5"
+    },
+    {
+      "path": "benchmarks/dnn-scale/REPORT.md",
+      "sha256": "5fa4f288a1d37e51bb9660f40c4c2b2cc0c84aaf7a68b2ea884e4ccebb5c79b5"
+    },
+    {
+      "path": "benchmarks/dnn-scale/SOURCE.json",
+      "sha256": "02992dd0b68f726b881641dca675b9b699c265bcaa2a29712dd6069efc949846"
+    },
+    {
+      "path": "benchmarks/dnn-standalone/REPORT.md",
+      "sha256": "3e46bec0bd44f679d41c3495900d6b650b517f77b1e8bcf389fe676512dc187e"
+    },
+    {
+      "path": "benchmarks/dnn-standalone/SOURCE.json",
+      "sha256": "0ccf6ddb91b798bc869484aee12d0375f702b96bedce707cb987129aff665e66"
+    },
+    {
+      "path": "benchmarks/dnn-teacher/REPORT.md",
+      "sha256": "fb5255ad36f5107830c4963056dc350108b00bdeb1a3835ea28461d0364313b1"
+    },
+    {
+      "path": "benchmarks/dnn-teacher/SOURCE.json",
+      "sha256": "213fe197826b4e09899c55a983049ddb4408bf4630c49ba7ee0b548c51a37888"
+    },
+    {
+      "path": "docs/CPP.md",
+      "sha256": "bf9e16d4a60c822ba0728227be35b81771bc04ce556f37234970c817d4ea3c32"
+    },
+    {
+      "path": "docs/CPP_USAGE.md",
+      "sha256": "589c64288efe4130ef975b7dc083f7d26b56e397cacad6556a720cc4bff3d767"
+    },
+    {
+      "path": "docs/DNN.md",
+      "sha256": "74e4c38c0e8b8545590e44d7abb9af0cc2dc253eeea651a432b3d9f5fe1bf8c2"
+    },
+    {
+      "path": "docs/SOURCES.md",
+      "sha256": "4982486217bd10d63b8bc8e8936e3e0fd5e2726cc2557fc9aa29e7bfb544917d"
+    },
+    {
+      "path": "README.md",
+      "sha256": "1f02b601125d65d688a6f72141fa9384ff83bad6102463920a07b97427594e51"
+    }
+  ]
+}
