@@ -2,7 +2,7 @@
   "prepared_on": "2026-11-18",
   "scope": "Documentation and archived reports only; no new benchmark execution.",
   "source_reports": 9,
-  "checked_local_markdown_links": 32,
+  "checked_local_markdown_links": 38,
   "files": [
     {
       "path": "benchmarks/cpp-max/REPORT.md",
@@ -94,7 +94,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "16a98fc0076990d85e2975daf775cd62af9d82f2c01b81cbedbe6e2bd6f1e875"
+      "sha256": "3dbef1fdff7969ac72ba6eec7f3c0449616cfbdae1d7909cddd11c8ee46b8206"
     }
   ]
 }
