@@ -1,8 +1,8 @@
 {
-  "prepared_on": "2026-11-17",
+  "prepared_on": "2026-11-18",
   "scope": "Documentation and archived reports only; no new benchmark execution.",
   "source_reports": 9,
-  "checked_local_markdown_links": 30,
+  "checked_local_markdown_links": 32,
   "files": [
     {
       "path": "benchmarks/cpp-max/REPORT.md",
@@ -78,7 +78,7 @@
     },
     {
       "path": "docs/CPP.md",
-      "sha256": "bf9e16d4a60c822ba0728227be35b81771bc04ce556f37234970c817d4ea3c32"
+      "sha256": "5c25f48e17643dd153dfd0ce5f8e6b9f4a289606be0197982c0bfcb6cb3c029c"
     },
     {
       "path": "docs/CPP_USAGE.md",
@@ -86,15 +86,15 @@
     },
     {
       "path": "docs/DNN.md",
-      "sha256": "74e4c38c0e8b8545590e44d7abb9af0cc2dc253eeea651a432b3d9f5fe1bf8c2"
+      "sha256": "74a602ef67996cfd8d676e18ae7c575f70bd88f3a201a76e05342dab1b80c7d4"
     },
     {
       "path": "docs/SOURCES.md",
-      "sha256": "4982486217bd10d63b8bc8e8936e3e0fd5e2726cc2557fc9aa29e7bfb544917d"
+      "sha256": "18acbc8e8384fb4362206444d3a23d70d63de87cb398b4dbdb90820d85e5bb29"
     },
     {
       "path": "README.md",
-      "sha256": "1f02b601125d65d688a6f72141fa9384ff83bad6102463920a07b97427594e51"
+      "sha256": "16a98fc0076990d85e2975daf775cd62af9d82f2c01b81cbedbe6e2bd6f1e875"
     }
   ]
 }
